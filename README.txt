@@ -44,3 +44,5 @@ Continue below to configure automatic syncing of ScreenConnect session groups fr
 
 
 Note: The other script "(old)GenerateScreenConnectSessionGroups_FromReportManager.ps1" was the method used in the original version of the script. This method required you to create a SQL user on your report manager server that has db_datareader access to your ods_n_central_ds1 database, then put these details into the connectionstring at the top of the script. Thanks to Jon Czerwinski, this method has been deprecated in favour of calling the N-Central server directly via the web service.
+
+PLEASE NOTE: All scripts where created by jamesweakley and everything is his work. I have just modified to bring the code up-to-date with the latest versions.
