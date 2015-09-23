@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Web;
 using System.Net;
-using Elsinore.ScreenConnect;
+using ScreenConnect;
 
 namespace NCentral
 {
-    public partial class TellMeMyKey : Elsinore.ScreenConnect.ThemeablePage
+    public partial class TellMeMyKey : ScreenConnect.ThemeablePage
     {
         protected override void OnLoad(EventArgs e)
         {
