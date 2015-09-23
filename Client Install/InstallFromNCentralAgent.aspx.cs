@@ -16,7 +16,7 @@ using ScreenConnect;
 
 namespace NCentral
 {
-    public partial class DownloadScreenConnect : Elsinore.ScreenConnect.ThemeablePage
+    public partial class DownloadScreenConnect : ScreenConnect.ThemeablePage
     {
         protected override void OnLoad(EventArgs e)
 	    {
