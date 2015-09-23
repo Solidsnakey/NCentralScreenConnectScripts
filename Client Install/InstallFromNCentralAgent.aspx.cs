@@ -12,7 +12,7 @@ using System.Net;
 using System.Data;
 using System.Text;
 using System.Configuration;
-using Elsinore.ScreenConnect;
+using ScreenConnect;
 
 namespace NCentral
 {
